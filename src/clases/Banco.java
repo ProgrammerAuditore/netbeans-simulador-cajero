@@ -15,7 +15,7 @@ public class Banco {
         cuentas[0] = new Cuenta("Son Goku", "/img/foto2.png");
         cuentas[1] = new Cuenta("Vegueta", "/img/foto3.png");
         cuentas[2] = new Cuenta("Son Gohan", "/img/foto1.png");
-        cuentas[3] = new Cuenta("Balck Goku", "/img/foto4.png");
+        cuentas[3] = new Cuenta("Black Goku", "/img/foto4.png");
     }
     
     public void fncIngresar(Cuenta cliente){
